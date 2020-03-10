@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BubbleDrawGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BubbleDrawGUI_jar</output-path>
+    <root id="archive" name="BubbleDrawGUI.jar">
+      <element id="module-output" name="BubbleDrawGUI" />
+    </root>
+  </artifact>
+</component>
